@@ -4,7 +4,7 @@ Bruno Gabriel Beltrame Fernandes                                                
 Alef Denobile de Almeida                                                                          RA: 0030482211033
 Michael Douglas Nascimento de Lima                                                                RA: 0030482211041
 
-                                                              E-Commerce para Vendas de Semi Joias
+                                                            E-Commerce para Vendas de Semi Joias
 
 A nossa ideia é a criação de um site de para a venda e comercialização de Semi Joias, nele os usuários criariam uma conta contendo informações básicas como: nome, data de nascimento, e-mail etc. Nele os usuários poderiam visualizar os produtos, consultar os preços e possíveis descontos, a conta seria necessária para poder fazer as negociações.
 
