@@ -31,6 +31,8 @@ Ferramenta: Visual Studio Code
 
 ------
 
+Link do Protótipo do Site: https://www.figma.com/file/zVzxHZnK573g4WEgnpheRy/Untitled?node-id=1%3A2&t=v2pZm6Izv0kMvaKz-1
+
 Anotações...
 
 Colocar uma tela para o dono(a) do site.
