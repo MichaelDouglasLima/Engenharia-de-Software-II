@@ -28,3 +28,16 @@ Front End: JavaScript, HTML e CSS
 Back End: Python
 Banco de Dados: Oracle
 Ferramenta: Visual Studio Code
+
+------
+
+Anotações...
+
+Colocar uma tela para o dono(a) do site.
+Gerenciar o tamanho do estoque dispoviel.
+Colocar Promoções.
+Por um chamariz.
+Integração com meios de pagamento.
+Como será feito o envio dos produtos.
+
+Quem vai manter o sistema funcionando? Sites exigem manutenção.
