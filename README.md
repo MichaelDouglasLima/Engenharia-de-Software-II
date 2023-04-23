@@ -34,7 +34,7 @@ No centro da tela será reservado um espaço para poder exibir os principais pro
 
 ## Protótipo
 
-!.[Web 1](https://github.com/MichaelDouglasLima/Engenharia-de-Software-II-E-Commerce/blob/main/Prot%C3%B3tipo/Imagem%20Prot%C3%B3tipo%20ADM.png)
+![Web 1](https://github.com/MichaelDouglasLima/Engenharia-de-Software-II-E-Commerce/blob/main/Prot%C3%B3tipo/Imagem%20Prot%C3%B3tipo%20ADM.png)
 
 
 Link do Protótipo do Site: https://www.figma.com/file/zVzxHZnK573g4WEgnpheRy/Untitled?node-id=1%3A2&t=v2pZm6Izv0kMvaKz-1
