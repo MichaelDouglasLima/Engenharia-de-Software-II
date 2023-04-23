@@ -32,6 +32,9 @@ No centro da tela será reservado um espaço para poder exibir os principais pro
 
 ------
 
+![image](https://user-images.githubusercontent.com/110948999/233839320-d51ff8c4-c0b8-47f6-8c50-d334d5cf4505.png)
+
+
 Link do Protótipo do Site: https://www.figma.com/file/zVzxHZnK573g4WEgnpheRy/Untitled?node-id=1%3A2&t=v2pZm6Izv0kMvaKz-1
 
 ## Diagrama de Casos de Uso
