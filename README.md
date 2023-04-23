@@ -30,8 +30,6 @@ No centro da tela será reservado um espaço para poder exibir os principais pro
 - Ferramenta: Visual Studio Code
 - Frame Work: Jungle
 
-------
-
 ## Protótipo
 
 ![Web 1](https://github.com/MichaelDouglasLima/Engenharia-de-Software-II-E-Commerce/blob/main/Prot%C3%B3tipo/Imagem%20Prot%C3%B3tipo%20ADM.png)
