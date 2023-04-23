@@ -1,10 +1,10 @@
 # Engenharia-de-Software-II E-Commerce
 
-Alef Denobile de Almeida                                                                          RA: 0030482211033
-Bruno Gabriel Beltrame Fernandes                                                                  RA: 0030482211024
-Michael Douglas Nascimento de Lima                                                                RA: 0030482211041
+### Alef Denobile de Almeida																																																													RA: 0030482211033
+### Bruno Gabriel Beltrame Fernandes                                                                  																								RA: 0030482211024
+### Michael Douglas Nascimento de Lima                                                                																								RA: 0030482211041
 
-                                                          E-Commerce para Vendas de Semi Joias
+## E-Commerce para Vendas de Semi Joias
 
 A nossa ideia é a criação de um site de para a venda e comercialização de Semi Joias, nele os usuários criariam uma conta contendo informações básicas como: nome, data de nascimento, e-mail etc. Nele os usuários poderiam visualizar os produtos, consultar os preços e possíveis descontos, a conta seria necessária para poder fazer as negociações.
 
@@ -22,7 +22,7 @@ O site terá uma interface clara com tons pasteis, uma parte login no lado super
 
 No centro da tela será reservado um espaço para poder exibir os principais produtos da loja, o controle deles seria feito pelo dono da loja virtual que poderia escolher por quanto tempo eles seriam exibidos e o preço que apareceria para o usuário, podendo fazer alterações sempre que desejasse.
 
-                                                                        Tecnologias
+## Tecnologias
 
 Front End: JavaScript, HTML e CSS
 Back End: Python
