@@ -28,7 +28,7 @@ No centro da tela será reservado um espaço para poder exibir os principais pro
 - Back End: Python
 - Banco de Dados: Oracle
 - Ferramenta: Visual Studio Code
-- Frame Work: Jungle
+- Framework: Jungle
 
 ## Protótipo
 
