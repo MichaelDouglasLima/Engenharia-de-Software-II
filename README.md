@@ -42,6 +42,12 @@ Link do Protótipo do Site: https://www.figma.com/file/zVzxHZnK573g4WEgnpheRy/Un
 
 Link do Diagrama: https://lucid.app/lucidchart/76bf2d3b-6dfd-4363-90d7-c4700aaca596/edit?viewport_loc=-1366%2C-262%2C3636%2C1700%2C0_0&invitationId=inv_5cee9a03-94e6-428f-8f41-854e3331b545
 
+# Jornada do Usuário
+
+![Web1](https://github.com/MichaelDouglasLima/Engenharia-de-Software-II-E-Commerce/blob/main/Jornada%20do%20Usuario/Jornada%20do%20Usu%C3%A1rio%20Site%20Semi%20Joias.png)
+
+Link do Arquivo: https://lucid.app/lucidspark/341828a0-1db2-418f-9648-7e64718c57d5/edit?viewport_loc=-239%2C-596%2C2025%2C974%2C0_0&invitationId=inv_3150f2e0-7e8e-4c63-a0cd-5f0e6463f1fd
+
 
 Anotações...
 
