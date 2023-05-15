@@ -35,7 +35,7 @@ No centro da tela será reservado um espaço para poder exibir os principais pro
 Tela do Site
 ![Web 1](https://github.com/MichaelDouglasLima/Engenharia-de-Software-II-E-Commerce/blob/main/Prot%C3%B3tipo/Tela%20do%20Site.png)
 
-Tela do Adminstrador
+Tela do Administrador
 ![Web 1](https://github.com/MichaelDouglasLima/Engenharia-de-Software-II-E-Commerce/blob/main/Prot%C3%B3tipo/Imagem%20Prot%C3%B3tipo%20ADM.png)
 
 
