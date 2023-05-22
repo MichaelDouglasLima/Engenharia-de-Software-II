@@ -42,7 +42,7 @@ Tela do Administrador
 Link do Protótipo do Site: https://www.figma.com/file/zVzxHZnK573g4WEgnpheRy/Untitled?node-id=1%3A2&t=v2pZm6Izv0kMvaKz-1
 
 ## Diagrama de Casos de Uso
-![Web 1](https://github.com/MichaelDouglasLima/Engenharia-de-Software-II-E-Commerce/blob/main/Diagrama%20de%20Casos%20de%20Uso/Diagrama%20de%20Casos%20de%20Uso%20Beltrame%201.2.png)
+![Web 1](https://github.com/MichaelDouglasLima/Engenharia-de-Software-II-E-Commerce/blob/main/Prot%C3%B3tipo/Diagrama%20de%20Casos%20de%20Uso%20Beltrame%201.2.png)
 
 Link do Diagrama: https://lucid.app/lucidchart/76bf2d3b-6dfd-4363-90d7-c4700aaca596/edit?viewport_loc=-1366%2C-262%2C3636%2C1700%2C0_0&invitationId=inv_5cee9a03-94e6-428f-8f41-854e3331b545
 
