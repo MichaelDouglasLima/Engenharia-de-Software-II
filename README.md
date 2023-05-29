@@ -48,12 +48,13 @@ Link do Diagrama: https://lucid.app/lucidchart/76bf2d3b-6dfd-4363-90d7-c4700aaca
 
 # Jornada do Usuário
 
-![Web1](https://github.com/MichaelDouglasLima/Engenharia-de-Software-II-E-Commerce/blob/main/Jornada%20do%20Usuario/Jornada%20do%20Usu%C3%A1rio%20Site%20Semi%20Joias.png)
+![Web 1](https://github.com/MichaelDouglasLima/Engenharia-de-Software-II-E-Commerce/blob/main/Jornada%20do%20Usuario/Jornada%20do%20Usu%C3%A1rio%20Site%20Semi%20Joias.png)
 
 Link do Arquivo: https://lucid.app/lucidspark/341828a0-1db2-418f-9648-7e64718c57d5/edit?viewport_loc=-239%2C-596%2C2025%2C974%2C0_0&invitationId=inv_3150f2e0-7e8e-4c63-a0cd-5f0e6463f1fd
 
 # Modelo Conceitual
 
+![Web 1](https://github.com/MichaelDouglasLima/Engenharia-de-Software-II-E-Commerce/blob/main/Modelo%20Conceitual/Modelo%20Conceitual%201.1.png)
 Link do Modelo Conceitual: https://lucid.app/lucidchart/27ebd1c7-b32d-46db-ba77-0b7c6b68d459/edit?viewport_loc=-478%2C71%2C2633%2C1447%2C0_0&invitationId=inv_2d427229-c6c4-43c9-bd69-d62d96ad0c42
 
 Anotações...
