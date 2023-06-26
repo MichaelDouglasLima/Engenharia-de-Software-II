@@ -62,13 +62,3 @@ Link do Modelo Conceitual: https://lucid.app/lucidchart/27ebd1c7-b32d-46db-ba77-
 
 Link do Documento: https://fatecspgov-my.sharepoint.com/:w:/g/personal/michael_lima8_fatec_sp_gov_br/EdLrZLGTAO1MrRaTx_wpcH0BQcbzPKJ3w2Anjoitfo5zIg
 
-Anotações...
-
-Colocar uma tela para o dono(a) do site.
-Gerenciar o tamanho do estoque dispoviel.
-Colocar Promoções.
-Por um chamariz.
-Integração com meios de pagamento.
-Como será feito o envio dos produtos.
-
-Quem vai manter o sistema funcionando? Sites exigem manutenção.
