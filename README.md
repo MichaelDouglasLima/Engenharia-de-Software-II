@@ -60,5 +60,7 @@ Link do Modelo Conceitual: https://lucid.app/lucidchart/27ebd1c7-b32d-46db-ba77-
 
 # Documento de Concepção
 
-Link do Documento: https://fatecspgov-my.sharepoint.com/:w:/g/personal/michael_lima8_fatec_sp_gov_br/EdLrZLGTAO1MrRaTx_wpcH0BQcbzPKJ3w2Anjoitfo5zIg
+Link do Documento (Privado): https://fatecspgov-my.sharepoint.com/:w:/g/personal/michael_lima8_fatec_sp_gov_br/EdLrZLGTAO1MrRaTx_wpcH0BQcbzPKJ3w2Anjoitfo5zIg
+
+Link do Documento (Visualização): https://fatecspgov-my.sharepoint.com/:w:/g/personal/michael_lima8_fatec_sp_gov_br/EdLrZLGTAO1MrRaTx_wpcH0Bp1sMPDRNXT5e2OV8Rr9HPg?e=8rlemQ
 
